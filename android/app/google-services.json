@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940831328086",
+    "firebase_url": "https://pan-ops-c9aaa.firebaseio.com",
+    "project_id": "pan-ops-c9aaa",
+    "storage_bucket": "pan-ops-c9aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940831328086:android:8decc8db38bfc92ad778f7",
+        "android_client_info": {
+          "package_name": "com.example.pizzaApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940831328086-ue6522kndpvrc49e4tfrnv7mai58j4e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0H_xArd3CPO4a4xQkNUYwswjQbCo36U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940831328086-ue6522kndpvrc49e4tfrnv7mai58j4e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940831328086-ijmqpssvunp4m3h39j4f0ns93pqsbcfc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
